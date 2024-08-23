@@ -44,7 +44,7 @@ git commit -m "Initial commit"
 To push the changes to a remote repository, run the following command:
 
 ```bash
-git push origin master
+git push origin main
 ```
 
 To pull changes from a remote repository, run the following command:
